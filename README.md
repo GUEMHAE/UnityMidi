@@ -1,2 +1,2 @@
-use midijack
+Use MiDiJack
 Make RytmGame
